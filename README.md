@@ -5,4 +5,4 @@
 
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyCHA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![github stats](https://github-readme-stats.vercel.app/api?username=SergeyCHA&show_icons=true&theme=cobalt)](https://github.com/Nikolka-net?tab=repositories)
+[![github stats](https://github-readme-stats.vercel.app/api?username=SergeyCHA&show_icons=true&theme=white)](https://github.com/Nikolka-net?tab=repositories)
